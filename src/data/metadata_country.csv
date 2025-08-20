@@ -1,0 +1,37 @@
+country_iso3,country,year,population,population_female,population_male,gdp_usd,source,source_url
+BRN,Brunei Darussalam,2021,451721,211320,240401,14006496614.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+BRN,Brunei Darussalam,2022,455370,213203,242167,16681536443.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+BRN,Brunei Darussalam,2023,458949,215060,243889,15128292981.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+KHM,Cambodia,2021,16974305,8667395,8306910,36790163687.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+KHM,Cambodia,2022,17201724,8779871,8421853,39994532960.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+KHM,Cambodia,2023,17423880,8889929,8533951,42335646896.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+IDN,Indonesia,2021,276758053,137726598,139031455,1190000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+IDN,Indonesia,2022,278830529,138760035,140070494,1320000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+IDN,Indonesia,2023,281190067,139934300,141255767,1370000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+LAO,Lao PDR,2021,7453194,3706725,3746469,18827148531.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+LAO,Lao PDR,2022,7559007,3759858,3799149,15468785204.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+LAO,Lao PDR,2023,7664993,3813122,3851871,15843155731.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MYS,Malaysia,2021,34282399,16273730,18008669,374000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MYS,Malaysia,2022,34695493,16491015,18204478,408000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MYS,Malaysia,2023,35126298,16716229,18410069,400000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MMR,Myanmar,2021,53387102,26780850,26606252,66345291160.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MMR,Myanmar,2022,53756787,26977460,26779327,62253049892.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+MMR,Myanmar,2023,54133798,27177563,26956235,66757619000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PNG,Papua New Guinea,2021,10012896,4848513,5164383,26109413522.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PNG,Papua New Guinea,2022,10203169,4946016,5257153,31647277767.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PNG,Papua New Guinea,2023,10389635,5041654,5347981,30729242919.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PHL,Philippines,2021,113100950,56681259,56419691,394000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PHL,Philippines,2022,113964338,57115091,56849247,404000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+PHL,Philippines,2023,114891199,57580382,57310817,437000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+SGP,Singapore,2021,5453566,2634886,2818680,434000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+SGP,Singapore,2022,5637022,2723972,2913050,498000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+SGP,Singapore,2023,5917648,2858818,3058830,501000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+THA,Thailand,2021,71727332,36686198,35041134,506000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+THA,Thailand,2022,71735329,36730034,35005295,496000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+THA,Thailand,2023,71702435,36752428,34950007,515000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+TLS,Timor-Leste,2021,1350139,669265,680874,3624889700.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+TLS,Timor-Leste,2022,1369295,679188,690107,3208594000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+TLS,Timor-Leste,2023,1384286,686512,697774,2079916900.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+VNM,Viet Nam,2021,98935098,50486603,48448495,366000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+VNM,Viet Nam,2022,99680655,50859448,48821207,410000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false
+VNM,Viet Nam,2023,100352192,51201223,49150969,430000000000.00,World Bank,https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?locations=MY-BN-SG&name_desc=false

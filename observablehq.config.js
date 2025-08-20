@@ -19,16 +19,16 @@ export default {
     {
       name: "Indicators", path: "indicators/",
       pages: [
-        { name: "Numerical indicators", path: ""},
-        { name: "Categorical indicators", path: "#"},
+        { name: "Numerical indicators", path: "indicators/numerical-indicators"},
+        { name: "Categorical indicators", path: "indicators/categorical-indicators"},
       ]
     },
-    {
-      name: "Map",
-      pages: [
-        { name: "View map", path: "maps/"},
-      ]
-    },
+    // {
+    //   name: "Map",
+    //   pages: [
+    //     { name: "View map", path: "maps/"},
+    //   ]
+    // },
     {
       name: "Country reports", path: "country-reports/",
       pages: [

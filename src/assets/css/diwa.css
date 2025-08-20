@@ -25,6 +25,10 @@
   /* --theme-foreground-fainter: */
   /* --theme-foreground-faintest: */
   --theme-foreground-focus: rgb(200, 5, 124);
+  --alert-blue: rgb(221, 255, 255);
+  --alert-red: rgb(255, 221, 221);
+  --alert-green: rgb(221, 255, 221);
+  --alert-yellow: rgb(255, 255, 204);
 
   font-family: 'Atkinson Hyperlegible Next' !important;
 

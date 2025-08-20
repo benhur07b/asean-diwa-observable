@@ -1,0 +1,26 @@
+country,year,indicator_id,indicator_name,indicator_value,subnational,remarks,source,source_url
+Brunei Darussalam ,2014,NUM-00002,Percentage of Women in the ICT Workforce,39.28,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2017,NUM-00002,Percentage of Women in the ICT Workforce,51.06,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2018,NUM-00002,Percentage of Women in the ICT Workforce,43.16,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2019,NUM-00002,Percentage of Women in the ICT Workforce,36.7,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2020,NUM-00002,Percentage of Women in the ICT Workforce,35.78,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2021,NUM-00002,Percentage of Women in the ICT Workforce,39.37,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Brunei Darussalam ,2022,NUM-00002,Percentage of Women in the ICT Workforce,38.75,No,,Brunei Department of Economic Planning and Statistics,https://deps.mofe.gov.bn/SitePages/Employment%20by%20Sector.aspx
+Malaysia,2021,NUM-00002,Percentage of Women in the ICT Workforce,69.67,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2022,NUM-00002,Percentage of Women in the ICT Workforce,66.52,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2023,NUM-00002,Percentage of Women in the ICT Workforce,67.92,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Singapore,2017,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,71.5,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2018,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,70.7,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2019,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,69,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2020,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,69.2,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2021,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,70.3,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2022,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,69.5,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2023,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,68.6,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Singapore,2024,NUM-00002,Percentage of Women in the ICT Workforce_Tech and Media Manpower,68.9,No,Tech and Media Manpower is under the InfoComm industry ,Ministry of Manpower Singapore,https://tablebuilder.singstat.gov.sg/table/TS/M651571
+Thailand,2020,NUM-00002,Percentage of Women in the ICT Workforce,35.3,No,,World Bank,https://documents1.worldbank.org/curated/en/099518309112322076/pdf/IDU005e8c7fb01e69045b40b256059e0bdbdb644.pdf
+Philippines,2019,NUM-00002,Percentage of Women in the ICT Workforce,32,,,,
+Vietnam,2019,NUM-00002,Percentage of Women in the ICT Workforce,37,,,,
+Myanmar,2019,NUM-00002,"Percentage of Women in the ICT Workforce_Computer Programming, Consultancy",46,,,,
+Myanmar,2019,NUM-00002,"Percentage of Women in the ICT Workforce_Computer Programming, Consultancy_Telecommunications",29,,,,
+Myanmar,2017,NUM-00002,Percentage of Women in the ICT Workforce_Engineering and Tech,71,,,,
+Indonesia,2020,NUM-00002,Percentage of Women in the ICT Workforce,28,,,,

@@ -1,0 +1,57 @@
+country,year,indicator_id,indicator_name,indicator_value,subnational,remarks,source,source_url
+Malaysia,2013,NUM-00001,Gender Gap in Internet Access,3.27,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2014,NUM-00001,Gender Gap in Internet Access,3.61,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2015,NUM-00001,Gender Gap in Internet Access,3.95,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2016,NUM-00001,Gender Gap in Internet Access,3.34,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2017,NUM-00001,Gender Gap in Internet Access,3.68,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2018,NUM-00001,Gender Gap in Internet Access,4.79,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2019,NUM-00001,Gender Gap in Internet Access,3.48,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2020,NUM-00001,Gender Gap in Internet Access,3.55,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2021,NUM-00001,Gender Gap in Internet Access,0.83,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Malaysia,2022,NUM-00001,Gender Gap in Internet Access,2.98,No,,Department of Statistics of Malaysia,https://www.dosm.gov.my/portal-main/release-content/statistics-on-women-empowerment-in-selected-domains-malaysia-2024
+Cambodia,2022,NUM-00001,Gender Gap in Internet Access,12.5,Yes,,National Institute of Statistics Cambodia,https://www.nis.gov.kh/nis/CDHS/2021-22/Cambodia_DHS2021-2022_Final_Report_EN.pdf
+Thailand,2013,NUM-00001,Gender Gap in Internet Access,-0.23,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2014,NUM-00001,Gender Gap in Internet Access,-0.03,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2015,NUM-00001,Gender Gap in Internet Access,0.79,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2016,NUM-00001,Gender Gap in Internet Access,1.13,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2017,NUM-00001,Gender Gap in Internet Access,1.65,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2018,NUM-00001,Gender Gap in Internet Access,2.32,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2019,NUM-00001,Gender Gap in Internet Access,2.22,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2020,NUM-00001,Gender Gap in Internet Access,2.15,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2021,NUM-00001,Gender Gap in Internet Access,2.06,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2022,NUM-00001,Gender Gap in Internet Access,2.58,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2023,NUM-00001,Gender Gap in Internet Access,1.93,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Thailand,2024,NUM-00001,Gender Gap in Internet Access,2,Yes,,National Statistics Office Thailand,https://www.nso.go.th/nsoweb/nso/survey_detail/jJ
+Laos,2012,NUM-00001,Gender Gap in Internet Access,2.6,Yes,,UNICEF,https://mics.unicef.org/sites/mics/files/Lao%202012%20MICS_English.pdf
+Laos,2017,NUM-00001,Gender Gap in Internet Access,1.3,Yes,,UNICEF,https://mics.unicef.org/sites/mics/files/Lao%20PDR%202017%20MICS%20Social%20Indicator%20Survey%20II%20Survey%20Findings%20Report_English.pdf
+Laos,2023,NUM-00001,Gender Gap in Internet Access,4.7,Yes,,UNICEF,https://mics.unicef.org/sites/mics/files/2025-02/Lao%20PDR%202023%20MICS%20-%20Social%20Indicator%20Survey%20III.pdf
+Brunei Darussalam,2016,NUM-00001,Gender Gap in Internet Access,0,No,,United Nations SDG Database,https://datacommons.org/explore#q=Brunei+Darussalam+internet+access&client=ui_query
+Brunei Darussalam,2019,NUM-00001,Gender Gap in Internet Access,7.92,No,,United Nations SDG Database,https://datacommons.org/explore#q=Brunei+Darussalam+internet+access&client=ui_query
+Singapore,2009,NUM-00001,Gender Gap in Internet Access,8.11,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2013,NUM-00001,Gender Gap in Internet Access,3.73,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2014,NUM-00001,Gender Gap in Internet Access,3.87,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2015,NUM-00001,Gender Gap in Internet Access,2.85,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2016,NUM-00001,Gender Gap in Internet Access,1.83,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2017,NUM-00001,Gender Gap in Internet Access,1.83,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2018,NUM-00001,Gender Gap in Internet Access,1.23,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2019,NUM-00001,Gender Gap in Internet Access,2.35,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2020,NUM-00001,Gender Gap in Internet Access,2.26,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2021,NUM-00001,Gender Gap in Internet Access,0.34,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Singapore,2022,NUM-00001,Gender Gap in Internet Access,1.87,No,,United Nations SDG Database,https://datacommons.org/explore/#client=ui_related_topic&t=dc%2Ftopic%2FsdgITUSEii99&p=country%2FSGP
+Indonesia,2015,NUM-00001,Gender Gap in Internet Access,8.18,,,,
+Indonesia,2016,NUM-00001,Gender Gap in Internet Access,7.6,,,,
+Indonesia,2017,NUM-00001,Gender Gap in Internet Access,7.04,,,,
+Indonesia,2018,NUM-00001,Gender Gap in Internet Access,6.34,,,,
+Indonesia,2019,NUM-00001,Gender Gap in Internet Access,6.26,,,,
+Indonesia,2020,NUM-00001,Gender Gap in Internet Access,5.84,,,,
+Indonesia,2021,NUM-00001,Gender Gap in Internet Access,5.04,,,,
+Indonesia,2022,NUM-00001,Gender Gap in Internet Access,5.24,,,,
+Indonesia,2023,NUM-00001,Gender Gap in Internet Access,4.2,,,,
+Myanmar,2017,NUM-00001,Gender Gap in Internet Access,10,,,,
+Papua New Guinea,2022,NUM-00001,Gender Gap in Internet Access,23,,,,
+Philippines,2022,NUM-00001,Gender Gap in Internet Access,-2.12,,,,
+Timor Leste,2015,NUM-00001,Gender Gap in Internet Access,5.9,,,,
+Timor Leste,2023,NUM-00001,Gender Gap in Internet Access,21,,,,
+Timor Leste,2023,NUM-00001,Gender Gap in Internet Access,9,,,,
+Timor Leste,2023,NUM-00001,Gender Gap in Internet Access,5,,,,
+Vietnam,2023,NUM-00001,Gender Gap in Internet Access,4.4,,,,

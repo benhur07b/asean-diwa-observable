@@ -1,0 +1,31 @@
+indicator_id,indicator_name,indicator_description,indicator_type,indicator_description_url
+NUM-00001,Gender Gap in Internet Access,The difference in the percentage of men and women who use the internet within a given population.,numerical,
+NUM-00002,Percentage of Women in the ICT Workforce,"The proportion of women among all individuals employed in ICT-related occupations or the ICT sector, expressed as a percentage.",numerical,
+NUM-00003,Percentage of Women in ICT Management Positions,"The proportion of women occupying managerial or leadership roles within the ICT sector, expressed as a percentage.",numerical,
+NUM-00004,Percentage of Women in ICT Leadership Roles,"The proportion of women in high-level leadership positions (e.g., C-suite or board roles) within ICT organizations.",numerical,
+NUM-00005,Gender Pay Gap in ICT Sector,"The difference in average earnings between men and women in the ICT sector, typically expressed as a percentage of men’s earnings (e.g., women earn 18-30% less than men).",numerical,
+NUM-00006,Percentage Women Graduates in STEM Fields,"The proportion of women among all graduates in science, technology, engineering, and mathematics (STEM) fields, expressed as a percentage.",numerical,
+NUM-00007-F,Enrolment Rates in ICT-Related Courses_Female,"The percentage of female students enrolled in educational programs related to ICT, such as computer science or telecommunications.",numerical,
+NUM-00007-M,Enrolment Rates in ICT-Related Courses_Male,"The percentage of male students enrolled in educational programs related to ICT, such as computer science or telecommunications.",numerical,
+NUM-00008-F,Completion Rates in ICT-Related Courses_Female,The percentage of female students who successfully complete ICT-related educational programs.,numerical,
+NUM-00008-M,Completion Rates in ICT-Related Courses_Male,The percentage of male students who successfully complete ICT-related educational programs.,numerical,
+NUM-00009,Gender Representation in ICT Startups,The percentage of ICT startups founded or co-founded by women.,numerical,
+NUM-00010-F,Phone Ownership_Female,"The percentage of individuals who own a mobile telephone, disaggregated by gender",numerical,
+NUM-00010-M,Phone Ownership_Male,"The percentage of individuals who own a mobile telephone, disaggregated by gender",numerical,
+NUM-00011,Proportion of Youth and Adults with ICT Skills_,"The percentage of youth (aged 15-24) and adults (aged 15+) who have specific ICT skills, categorized by skill type. disaggregated if possible. ",numerical,
+NUM-00012,Proportion of Youth and Adults With Digital Literacy Skills,"Assesses competencies in digital environments, information management, digital content creation, online safety, problem-solving, and communication.",numerical,
+NUM-00013,Share of Female Graduates by Field_,World Bank indicator measures the percentage of female graduates across different fields of study in tertiary education,numerical,
+NUM-00014,Share of Female Graduates in ICT Programs,The percentage of female graduates in ICT-related programs at the tertiary education level.,numerical,
+NONNUM-00001,Existence of Comprehensive Gender Equality Policies,"Broad policies addressing gender equality across sectors, including ICT, providing a foundation for reducing digital gender divide",non-numerical,
+NONNUM-00002,Integration of Gender Considerations in ICT-Specific Policies /Policy Integration of Gender and ICT,"The degree to which ICT and digital transformation policies explicitly address gender disparities in access, skills, or workforce participation. The extent to which gender equality is woven into broader ICT policies and strategies for inclusive digital transformation.
+",non-numerical,
+NONNUM-00003,Gender Budgeting and Mainstreaming Frameworks,Frameworks ensuring gender considerations are part of budgetary allocations and policy implementation in ICT initiatives.,non-numerical,
+NONNUM-00004,Specialized Government Bodies for Gender and ICT,Government agencies or bodies dedicated to integrating gender equality into ICT policy or addressing gender-specific ICT issues.,non-numerical,
+NONNUM-00005,Education and Skill Development Initiatives for Women in ICT,"Government Programs aimed at increasing women’s ICT participation through education, scholarships, mentorship, and skills training.
+",non-numerical,
+NONNUM-00006,Data Collection and Analysis Initiatives on Gender and ICT,"Efforts to collect and analyze gender-disaggregated data on ICT access, usage, skills, and workforce participation.",non-numerical,
+NONNUM-00007,Workplace Policies Promoting Gender Equality in ICT,"Organizational or national policies supporting gender equality in ICT workplaces, such as flexible work or anti-discrimination measures.",non-numerical,
+NONNUM-00008,Entrepreneurship Support Programs for Women in ICT,"Initiatives providing funding, mentorship, or resources to women ICT entrepreneurs.
+",non-numerical,
+NONNUM-00009,Technology Access and Digital Inclusion Programs,"Programs increasing women’s access to technology, especially in underserved areas.
+",non-numerical,
