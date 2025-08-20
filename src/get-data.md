@@ -5,7 +5,7 @@ style: assets/css/diwa.css
 
 # Browse the data
 
-You can find and browse our data in the [**ASEAN-DIWA Datasette instance**](https://data.aseandiwa.org).
+You can find and browse our data in the [**ASEAN-DIWA Datasette instance**](https://asean-diwa-199819740755.asia-southeast1.run.app/).
 
 <br>
 

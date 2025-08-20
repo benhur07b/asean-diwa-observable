@@ -18,7 +18,7 @@ pager: false
 ## <span style="color: #0a0a0a; font-weight: 300">Read the</span> <a href="country-reports/" target="_blank"><strong>Country Reports</strong></a>.
 <br>
 
-## <span style="color: #0a0a0a; font-weight: 300">Browse the data on the</span> <a href="https://data.aseandiwa.org" target="_blank"><strong>ASEAN-DIWA Datasette</strong></a>.
+## <span style="color: #0a0a0a; font-weight: 300">Browse the data on the</span> <a href="https://asean-diwa-199819740755.asia-southeast1.run.app/" target="_blank"><strong>ASEAN-DIWA Datasette</strong></a>.
 <br>
 
 ## <span style="color: #0a0a0a; font-weight: 300">Read our</span> <a href="assets/files/SmartCT-ASEAN-DIWA-Policy-Paper.pdf" download target="_blank"><strong>policy paper</strong></a>.
