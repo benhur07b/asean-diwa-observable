@@ -1,0 +1,60 @@
+@import url("observablehq:default.css");
+@import url("observablehq:theme-glacier.css");
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+/* @font-face {
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('Atkinson Hyperlegible Regular'),
+    local('AtkinsonHyperlegible-Regular'),
+    url('assets/fonts/AtkinsonHyperlegibleNext-Regular.woff2') format('woff2');
+  font-family: 'Atkinson Hyperlegible';
+  font-display: swap;
+} */
+
+:root {
+  --theme-foreground: #0a0a0a;
+  /* --theme-background: */
+  /* --theme-background-alt: */
+  /* --theme-foreground-alt: */
+  /* --theme-foreground-muted: */
+  /* --theme-foreground-faint: */
+  /* --theme-foreground-fainter: */
+  /* --theme-foreground-faintest: */
+  --theme-foreground-focus: rgb(200, 5, 124);
+
+  font-family: 'Atkinson Hyperlegible Next' !important;
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--theme-foreground-focus);
+  }
+
+  body {
+    font-family: 'Atkinson Hyperlegible Next' !important;
+  }
+
+  #observablehq-sidebar {
+    font-family: 'Atkinson Hyperlegible Next' !important;
+  }
+
+  #observablehq-sidebar > ol:first-child > li > a {
+    color: var(--theme-foreground-focus);
+  }
+
+  #observablehq-sidebar > ol:first-child > li > a:hover {
+    color: #1f1f1f;
+
+  }
+
+  #observablehq-sidebar summary, .observablehq-link a {
+    color: #1f1f1f;
+  }
+
+  #observablehq-sidebar summary, .observablehq-link a:hover {
+    color: var(--theme-foreground-focus);
+  }
+
+}
