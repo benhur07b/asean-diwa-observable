@@ -17,11 +17,35 @@ Users are advised to use caution when interpreting the data and to consider thes
 
 Vietnam has reliable data on ICT participation, STEM graduates, and digital skills. The trends suggest stable but unequal representation, with women consistently below parity in ICT employment, leadership, and pay. Everyday skills are spreading rapidly, but technical competencies remain stagnant. Education data show that women dominate in arts, health, and agriculture but remain underrepresented in engineering and ICT.
 
+These indicators carry important implications for ASEAN’s efforts to mainstream gender in ICT. Vietnam’s inclusion of digital literacy and pay equity highlights the dual challenge of equipping women with skills while also addressing structural inequalities in the workforce. For regional strategies, this underscores the need not only to expand access and training but also to ensure fairness in compensation and career progression. Vietnam’s focus provides a reminder that digital transformation must tackle both entry-level barriers and systemic disparities.
+
 <br>
 
-## Qualitative Indicators
+## Qualitative indicators
 
 There are no reported comprehensive policies or initiatives in Vietnam that address the intersection of gender and ICT. The country does not have broad gender equality frameworks that serve as a foundation for reducing the digital gender divide, nor are there reported efforts to integrate gender considerations into ICT-specific strategies. Similarly, there are no reported mechanisms for gender budgeting or mainstreaming, and no specialized government bodies dedicated to gender and ICT. Programs aimed at supporting women in ICT through education, skills development, workplace equality, entrepreneurship support, or technology access have also not been reported. In addition, no initiatives exist for the systematic collection and analysis of gender-disaggregated ICT data, which limits the ability to assess and address disparities.
+
+<br>
+
+## Numerical indicators
+
+Vietnam records indicators on gender gaps in internet access, women in the ICT workforce, and women graduates in STEM fields. It also includes figures for female graduates across multiple disciplines (arts, business, health, agriculture, natural sciences, and engineering) as well as measures of digital literacy and gender pay gaps in the ICT sector.
+
+| **Indicator** | Observation |
+| --- | --- |
+| **Gender Gap in Internet Access** | In 2023, the gender gap in internet access was measured at 4.4. Since this is the only available data point, no trend can be established. |
+| **Percentage of Women in the ICT Workforce** | In 2019, women represented 37.0% of the ICT workforce. Without additional years of information, no trend can be identified. |
+| **Percentage of Women in ICT Management Positions** | N/A |
+| **Percentage of Women in ICT Leadership Roles** | N/A |
+| **Gender Pay Gap in ICT Sector** | In 2023, the gender pay gap in the ICT sector stood at 28.0. With only one year of data, no trajectory can be determined. |
+| **Percentage Women Graduates in STEM Fields** | In 2023, women made up 36.5% of STEM graduates. No further data points are available to assess changes over time. |
+| **Enrolment and Completion Rates in ICT-Related Courses** | N/A |
+| **Gender Representation in ICT Startups** | N/A |
+| **Phone Ownership** | N/A |
+| **Proportion of Youth and Adults with ICT Skills** | N/A |
+| **Proportion of Youth and Adults with Digital Literacy Skills** | In 2023, 36.0% of youth and adults demonstrated digital literacy skills. With only one year recorded, it is not possible to observe progression. This is the only ASEAN country with a record for this indicator. |
+| **Share of Female Graduates by Field** | In 2019, women accounted for 53.0% of graduates in agriculture, 60.0% in arts and humanities, 59.5% in business, administration and law, and 37.1% in engineering. In health and welfare, women represented 58.7% of graduates, while in natural sciences they made up 50.6%. For ICT programs, female participation was lower, at 26.4% in 2019. All these are single-year figures, so no historical trend can be determined. |
+| **Share of Female Graduates in ICT Programs** | In 2016, women accounted for 26.4% of graduates in ICT programs. As only one year is reported, no trend over time is available. |
 
 <br>
 

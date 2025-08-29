@@ -17,9 +17,11 @@ Users are advised to use caution when interpreting the data and to consider thes
 
 Singapore stands out for the scale of women’s participation in ICT: they form the majority of the workforce and almost two-fifths of management roles. Access gaps in internet use have largely closed, and mobile phone ownership is nearly universal. At the same time, disparities remain in higher education and advanced digital competencies. Women are still underrepresented in STEM and ICT programs, despite high participation in health, education, and social sciences.
 
+The implications of this comprehensive coverage are significant for mainstreaming gender and ICT in ASEAN. With such detailed and long-term records, policymakers can design interventions that target not only access but also deeper structural challenges such as pay equity, skill readiness, and career advancement. Singapore’s example shows the value of systematic and granular data collection for creating inclusive strategies in the digital economy. Its breadth positions it as a reference point for ASEAN member states seeking to integrate gender equity into ICT development.
+
 <br>
 
-## Qualitative Indicators
+## Categorical indicators
 
 | **Indicator** | Description |
 | --- | --- |
@@ -34,26 +36,26 @@ Singapore stands out for the scale of women’s participation in ICT: they form 
 
 <br>
 
----
-theme: air
-style: ../assets/css/diwa.css
----
+## Numerical indicators
 
-# Singapore
+Singapore records yearly values for gender gaps in internet access from 2009 to 2022, phone ownership by gender, women’s representation in the ICT workforce and in management positions, and gender pay gaps in the ICT sector. It also tracks the share of women graduates in STEM fields and across a wide range of disciplines, as well as enrolment and completion rates in ICT courses for men and women. The record extends to digital skills, with measures that include programming, spreadsheet use, online communication, privacy management, and digital content creation.
 
-<div class="card card-note">
-<strong>NOTE</strong><br>
-The data presented here are based on available data but due to the lack of standardized and comparable data across ASEAN member states, some gaps and limitations may exist.
-<br>
-Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
-</div>
-<br>
-
-## Key findings
-
-<br>
-
-## Categorical indicators
+| **Indicator** | Observation |
+| --- | --- |
+| **Gender Gap in Internet Access** | From 2009 to 2022, the gender gap in internet access ranged between 0.34 and 8.11. It began at 8.11 in 2009 and ended at 1.87 in 2022. The overall trend decreased, suggesting more equal internet access between men and women by the end of the period. |
+| **Percentage of Women in the ICT Workforce** | From 2017 to 2024, women’s share of the ICT workforce ranged between 68.6% and 71.5%. It started at 71.5% in 2017 and ended at 68.9% in 2024, reflecting a small overall decline. |
+| **Percentage of Women in ICT Management Positions** | From 2011 to 2023, women’s representation in ICT management positions increased. The share ranged between 33.1% and 40.6%, beginning at 33.8% in 2011 and rising to 39.8% in 2023. The trend increased overall. |
+| **Percentage of Women in ICT Leadership Roles** | N/A |
+| **Gender Pay Gap in ICT Sector** | Between 2018 and 2023, the gender pay gap in the ICT sector ranged between 14.3% and 16.3%. It began at 16.3% in 2018 and narrowed to 14.3% in 2023, showing a decreasing trend overall. |
+| **Percentage Women Graduates in STEM Field** | Between 2016 and 2017, the share of women in STEM fields ranged from 33.7% to 34.3%. It started at 34.3% in 2016 and fell slightly to 33.7% in 2017, showing a small decline overall. |
+| **Enrolment and Completion Rates in ICT-Related Courses** | From 2005 to 2023, completion rates in ICT-related courses showed a downward trend for both genders. Among women, rates ranged between 26.4% and 40.2%, starting at 28.9% in 2005 and ending at 26.4% in 2023. Among men, completion ranged from 26.7% to 33.9%, beginning at 28.9% in 2005 and falling slightly to 27.3% in 2023. Both trends decreased overall. |
+| **Enrolment Rates in ICT-Related Courses** | Between 1991 and 2023, enrolment patterns diverged by gender. Female enrolment declined steadily, starting at 44.6% in 1991 and falling to 27.6% in 2023. Male enrolment rose during the same period, from 55.4% to 72.4%. This reflects a widening gender gap in ICT enrolment over time. |
+| **Gender Representation in ICT Startups** | N/A |
+| **Phone Ownership** | Between 2017 and 2023, phone ownership remained high for both men and women. Female ownership rose from 91.2% in 2017 to 97.8% in 2023, while male ownership grew from 94.7% to 98.6%. Both trends increased overall, with consistently high access for both genders. |
+| **Proportion of Youth and Adults with ICT Skills** | From 2016 to 2023, ICT skill levels improved in most areas. Online learning rose from 3.3% to 20.7%, purchasing online from 32% to 66%, and programming from under 10% to about 11%. Skills such as spreadsheets and presentations also increased steadily, while networking and file transfers remained relatively high at above 50%. The overall trend shows expanding digital competence over time. |
+| **Proportion of Youth and Adults with Digital Literacy Skills** | N/A |
+| **Share of Female Graduates by Field** | The data shows women were strongly represented in education, health, arts, and social sciences, while they remained underrepresented in engineering, ICT, and services. Women’s share varied widely across fields in both 2016 and 2017. Women dominated in education, rising from 76.6% in 2016 to 83.2% in 2017, and in health and welfare, where their share stayed high at around 72.7% in 2016 and 71.0% in 2017. Similarly, women dominated in arts and humanities (63.2% to 65.9%), social sciences, journalism and information (67.3% to 65.8%), and agriculture, forestry, fisheries and veterinary (65.7% to 65.0%). In the natural sciences, mathematics and statistics, women’s representation was more mixed, with one series showing an increase from 59.2% to 61.7%, while another remained much lower at 33.7% to 34.3%. By contrast, in traditionally male-dominated fields such as engineering, manufacturing and construction, women made up only about a quarter of graduates, 27.0% in 2016 and 27.8% in 2017. In services, women’s share declined from 38.0% to 34.9%, while in unspecified fields they accounted for 62.5% in 2016. Overall, the data shows consistent gendered specialization: women remained the majority in education, health, and the humanities, while men dominated engineering and technical domains, with little change between the two years. |
+| **Share of Female Graduates in ICT Programs** | In 2016, women made up 33.2% of ICT graduates in Singapore. The following year, in 2017, the share of female graduates was slightly lower at 32.2%. |
 
 <br>
 
