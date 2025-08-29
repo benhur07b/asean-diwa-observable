@@ -15,9 +15,56 @@ Users are advised to use caution when interpreting the data and to consider thes
 
 <h2 id="indicators_gender_gap_internet_access">Gender Gap in Internet Access</h2>
 
+<div class="card">
+
+View data on [**Datasette**](https://data.aseandiwa.org/asean_diwa/indicators_gender_gap_internet_access).
+</div>
+
+```js
+const indicators_gender_gap_internet_access = FileAttachment("../data/indicators_numerical_gender_gap_internet_access.csv").csv({typed: true});
+```
+
+
+```js
+Inputs.table(indicators_gender_gap_internet_access, {
+    format: {
+        year: (x) => (String(x)),    
+    }
+})
+```
+
+<!-- ```js
+// Radio button input to choose market segment
+const select_country_num0001 = view(
+    Inputs.select(
+        d3.group(indicators_gender_gap_internet_access, (d) => d.country),
+        {sort: true, label: "Select Country"}
+    )
+);
+// const pickCountryIndicatorsGenderGapInternetAccess = Generators.input(pickCountryIndicatorsGenderGapInternetAccessInput);
+``` -->
+
 
 <br><br> 
 <h2 id="indicators_women_in_ict_workforce">Percentage of Women in the ICT Workforce</h2>
+
+<div class="card">
+
+View data on [**Datasette**](https://data.aseandiwa.org/asean_diwa/indicators_women_in_ict_workforce).
+</div>
+
+```js
+const indicators_women_in_ict_workforce = FileAttachment("../data/indicators_numerical_women_in_ict_workforce.csv").csv({typed: true});
+```
+
+
+```js
+Inputs.table(indicators_women_in_ict_workforce, {
+    format: {
+        year: (x) => (String(x)),    
+    }
+})
+```
 
 <br><br> 
 <h2 id="indicators_women_in_ict_management">Percentage of Women in ICT Management Positions</h2>
@@ -49,12 +96,4 @@ Users are advised to use caution when interpreting the data and to consider thes
 <br><br> 
 <h2 id="indicators_graduates_in_ict">Share of Female Graduates in ICT Programs</h2>
 
-<br><br> 
-
-<style>
-  .card-note {
-    font: 16px 'Atkinson Hyperlegible Next' !important;
-    font-weight: 200 !important; 
-    background-color: var(--alert-blue);
-  }
-</style>
+<br><br>

@@ -39,12 +39,3 @@ Users are advised to use caution when interpreting the data and to consider thes
 
 <br><br> 
 <h2 id="indicators_categorical_technology_access">Technology Access and Digital Inclusion Programs</h2>
-
-
-<style>
-  .card-note {
-    font: 16px 'Atkinson Hyperlegible Next' !important;
-    font-weight: 200 !important; 
-    background-color: var(--alert-blue);
-  }
-</style>

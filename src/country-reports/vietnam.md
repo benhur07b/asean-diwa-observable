@@ -3,4 +3,275 @@ theme: air
 style: ../assets/css/diwa.css
 ---
 
-# Vietnam
+# Viet Nam
+
+<div class="card card-note">
+<strong>NOTE</strong><br>
+The data presented here are based on available data but due to the lack of standardized and comparable data across ASEAN member states, some gaps and limitations may exist.
+<br>
+Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
+</div>
+<br>
+
+## Key findings
+
+Vietnam has reliable data on ICT participation, STEM graduates, and digital skills. The trends suggest stable but unequal representation, with women consistently below parity in ICT employment, leadership, and pay. Everyday skills are spreading rapidly, but technical competencies remain stagnant. Education data show that women dominate in arts, health, and agriculture but remain underrepresented in engineering and ICT.
+
+<br>
+
+## Qualitative Indicators
+
+There are no reported comprehensive policies or initiatives in Vietnam that address the intersection of gender and ICT. The country does not have broad gender equality frameworks that serve as a foundation for reducing the digital gender divide, nor are there reported efforts to integrate gender considerations into ICT-specific strategies. Similarly, there are no reported mechanisms for gender budgeting or mainstreaming, and no specialized government bodies dedicated to gender and ICT. Programs aimed at supporting women in ICT through education, skills development, workplace equality, entrepreneurship support, or technology access have also not been reported. In addition, no initiatives exist for the systematic collection and analysis of gender-disaggregated ICT data, which limits the ability to assess and address disparities.
+
+<br>
+
+## Women in ICT Workforce
+```js
+const indicators_women_in_ict_workforce = FileAttachment("../data/indicators_numerical_women_in_ict_workforce.csv").csv({typed: true});
+```
+
+```js
+const indicators_women_in_ict_workforce_filtered = indicators_women_in_ict_workforce.filter(row => row.country === 'Vietnam')
+  .map((row) => {
+    return { 
+      year: (new Date(parseInt(row.year), 0, 1)), 
+      indicator_value: parseFloat(row.indicator_value)
+    }
+  })
+```
+<!-- 
+```js
+Plot.plot({
+    marks: [
+        Plot.rectY(
+            indicators_women_in_ict_workforce_filtered, 
+            {x: "year", y: "indicator_value", r: 16, fill: "#C8057C", interval: Plot.timeInterval("1 year")}),
+        Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Women in ICT Workforce (%)"})
+    ]
+})
+``` -->
+
+```js
+Plot.plot({
+    x: {interval: Plot.timeInterval("1 year")},
+    marks: [
+        Plot.barY(
+            indicators_women_in_ict_workforce_filtered, 
+            {x: "year", y: "indicator_value", r: 16, fill: "#C8057C",  tip: true}),
+        Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Women in ICT Workforce (%)"}),
+    ]
+})
+```
+
+<br>
+
+## Women in ICT Management Positions
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Women in ICT Leadership Roles
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Gender Pay Gap in ICT Sector
+```js
+const indicators_gender_paygap_in_ict = FileAttachment("../data/indicators_numerical_gender_paygap_in_ict.csv").csv({typed: true});
+```
+
+```js
+const indicators_gender_paygap_in_ict_filtered = indicators_gender_paygap_in_ict.filter(row => row.country === 'Vietnam')
+  .map((row) => {
+    return { 
+      year: (new Date(parseInt(row.year), 0, 1)), 
+      indicator_value: parseFloat(row.indicator_value)
+    }
+  })
+```
+
+```js
+Plot.plot({
+    x: {interval: Plot.timeInterval("1 year")},
+    marks: [
+        Plot.barY(
+            indicators_gender_paygap_in_ict_filtered, 
+            {x: "year", y: "indicator_value", r: 16, fill: "#C8057C",  tip: true}),
+        Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Gender Pay Gap in ICT Sector (%)"}),
+    ]
+})
+```
+
+<br>
+
+## Women Graduates in STEM Fields
+```js
+const indicators_women_graduates_in_stem = FileAttachment("../data/indicators_numerical_women_graduates_in_stem.csv").csv({typed: true});
+```
+
+```js
+const indicators_women_graduates_in_stem_filtered = indicators_women_graduates_in_stem.filter(row => row.country === 'Vietnam')
+  .map((row) => {
+    return { 
+      year: (new Date(parseInt(row.year), 0, 1)), 
+      indicator_value: parseFloat(row.indicator_value)
+    }
+  })
+```
+
+```js
+Plot.plot({
+    x: {interval: Plot.timeInterval("1 year")},
+    marks: [
+        Plot.barY(
+            indicators_women_graduates_in_stem_filtered, 
+            {x: "year", y: "indicator_value", r: 16, fill: "#C8057C",  tip: true}),
+        Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Women Graduates in STEM Fields (%)"}),
+    ]
+})
+```
+
+<br>
+
+## Enrolment Rates in ICT-Related Courses
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Completion Rates in ICT-Related Courses
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Phone ownership
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Proportion of Youth and Adults with ICT Skills
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
+```
+
+<br>
+
+## Share of Female Graduates by Field
+```js
+const graduates_by_field = FileAttachment("../data/indicators_numerical_graduates_by_field.csv").csv({typed: true});
+```
+
+```js
+const graduates_by_field_filtered = graduates_by_field.filter(row => row.country === 'Vietnam')
+  .map((row) => {
+    return { 
+      year: (new Date(parseInt(row.year), 0, 1)),
+      indicator_name: row.indicator_name,
+      sub_indicator_name: row.sub_indicator_name,
+      indicator_value: parseFloat(row.indicator_value)
+    }
+  })
+```
+
+```js
+Plot.plot({
+    // color: {range: ["#C8057C", "#4CB391"], legend: true},
+    color: {legend: true},
+    x: {axis: null, label: null},
+    y: {tickFormat: "s", grid: true},
+    fx: {interval: Plot.timeInterval("1 year"), label: null},
+    marks: [
+        Plot.barY(
+          graduates_by_field_filtered, {
+            x: "sub_indicator_name",
+            y: "indicator_value",
+            fill: "sub_indicator_name",
+            fx: "year",
+            // sort: {x: null, color: null, fx: {value: "-y", reduce: "sum"}},
+            tip: true,
+            r: 16
+          }
+        ),
+        // Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Youth and Adults with ICT Skills (%)"}),
+    ]
+})
+```
+
+<br>
+
+## Share of Female Graduates in ICT Programs
+```js
+const graduates_in_ict = FileAttachment("../data/indicators_numerical_graduates_in_ict.csv").csv({typed: true});
+```
+
+```js
+const graduates_in_ict_filtered = graduates_in_ict.filter(row => row.country === 'Vietnam')
+  .map((row) => {
+    return { 
+      year: (new Date(parseInt(row.year), 0, 1)),
+      indicator_name: row.indicator_name,
+      indicator_value: parseFloat(row.indicator_value)
+    }
+  })
+```
+
+```js
+Plot.plot({
+    x: {interval: Plot.timeInterval("1 year")},
+    marks: [
+        Plot.barY(
+            graduates_in_ict_filtered, 
+            {x: "year", y: "indicator_value", r: 16, fill: "#C8057C",  tip: true}),
+        Plot.axisX({label: "Year"}),
+        Plot.axisY({label: "Female Graduates in ICT Programs (%)"}),
+    ]
+})
+```
+
+<br>
+
+**Read more in our <a href="../assets/files/SmartCT-ASEAN-DIWA-Policy-Paper.pdf" download target="_blank"><strong>policy paper</strong></a>**.

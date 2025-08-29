@@ -19,7 +19,7 @@ export default {
     {
       name: "Indicators", path: "indicators/",
       pages: [
-        { name: "Numerical indicators", path: "indicators/numerical-indicators"},
+        { name: "Numerical indicators", path: "indicators/numerical-indicators" },
         { name: "Categorical indicators", path: "indicators/categorical-indicators"},
       ]
     },
@@ -38,6 +38,7 @@ export default {
         { name: "Lao PDR", path: "country-reports/lao-pdr" },
         { name: "Malaysia", path: "country-reports/malaysia" },
         { name: "Myanmar", path: "country-reports/myanmar" },
+        { name: "Papua New Guinea", path: "country-reports/papua-new-guinea" },
         { name: "Philippines", path: "country-reports/philippines" },
         { name: "Singapore", path: "country-reports/singapore" },
         { name: "Thailand", path: "country-reports/thailand" },
