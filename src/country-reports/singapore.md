@@ -473,7 +473,7 @@ Plot.plot({
           }
         ),
         // Plot.axisX({label: "Year"}),
-        Plot.axisY({label: "Youth and Adults with ICT Skills (%)"}),
+        Plot.axisY({label: "Share of Female Graduates by Field (%)"}),
     ]
 })
 ```

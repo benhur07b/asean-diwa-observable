@@ -46,6 +46,7 @@ const indicators_gender_gap_internet_access_filtered = indicators_gender_gap_int
 ```js
 Plot.plot({
     x: {interval: Plot.timeInterval("1 year")},
+    y: {label: "Gender Gap in Internet Access (%)"},
     marks: [
         Plot.barY(
             indicators_gender_gap_internet_access_filtered, 
@@ -93,6 +94,7 @@ Plot.plot({
 ```js
 Plot.plot({
     x: {interval: Plot.timeInterval("1 year")},
+    y: {label: "Women in ICT Workforce (%)"},
     marks: [
         Plot.barY(
             indicators_women_in_ict_workforce_filtered, 
@@ -179,6 +181,7 @@ const indicators_women_graduates_in_stem_filtered = indicators_women_graduates_i
 ```js
 Plot.plot({
     x: {interval: Plot.timeInterval("1 year")},
+    y: {label: "Women Graduates (%)"},
     marks: [
         Plot.barY(
             indicators_women_graduates_in_stem_filtered, 
@@ -249,8 +252,8 @@ const indicators_gender_phone_ownership_filtered = indicators_gender_phone_owner
 Plot.plot({
     color: {range: ["#C8057C", "#4CB391"], legend: true},
     x: {axis: null, label: null},
-    y: {tickFormat: "s", grid: true},
-    fx: {interval: Plot.timeInterval("1 year"), label: null},
+    y: {tickFormat: "s", grid: true, label: "Phone ownership (%)"},
+    fx: {interval: Plot.timeInterval("1 year"), label: "Year"},
     marks: [
         Plot.barY(
           indicators_gender_phone_ownership_filtered, {
@@ -298,8 +301,8 @@ Plot.plot({
     // color: {range: ["#C8057C", "#4CB391"], legend: true},
     color: {legend: true},
     x: {axis: null, label: null},
-    y: {tickFormat: "s", grid: true},
-    fx: {interval: Plot.timeInterval("1 year"), label: null},
+    y: {tickFormat: "s", grid: true, label: "%"},
+    fx: {interval: Plot.timeInterval("1 year"), label: "Year"},
     marks: [
         Plot.barY(
           indicators_ict_skills_filtered, {
@@ -347,8 +350,8 @@ Plot.plot({
     // color: {range: ["#C8057C", "#4CB391"], legend: true},
     color: {legend: true},
     x: {axis: null, label: null},
-    y: {tickFormat: "s", grid: true},
-    fx: {interval: Plot.timeInterval("1 year"), label: null},
+    y: {tickFormat: "s", grid: true, label: "%"},
+    fx: {interval: Plot.timeInterval("1 year"), label: "Year"},
     marks: [
         Plot.barY(
           graduates_by_field_filtered, {
@@ -393,6 +396,7 @@ const graduates_in_ict_filtered = graduates_in_ict.filter(row => row.country ===
 ```js
 Plot.plot({
     x: {interval: Plot.timeInterval("1 year")},
+    y: {label: "Female Graduates (%)"},
     marks: [
         Plot.barY(
             graduates_in_ict_filtered, 

@@ -12,7 +12,10 @@ The data presented here are based on available data but due to the lack of stand
 Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
 </div>
 
+<div>
 Country reports provide analysis and insights on the status of women's participation in the ICT sector, highlighting areas of progress and challenges, based on the data collected by the project.
+</div>
+<br>
 
 *  [**Brunei Darussalam**](brunei-darussalam)
 *  [**Cambodia**](cambodia)

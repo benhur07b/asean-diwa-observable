@@ -1,4 +1,4 @@
-,country ,country_iso3,exists ,year ,policy/program,subnational,remarks,source,source_url
+indicator_id,country,country_iso3,exists,year,policy/program,subnational,remarks,source,source_url
 CAT-00002,Brunei Darussalam,BRN,No Data,,,,"Brunei currently does not have policies integrating gender and ICT. What they have are action plans such as their Digital Economy Masterplan 2025 published in 2020. The action plan pushes for an inclusive digital economy yet it has no specific clauses on gender equality. 
 ",,
 CAT-00002,Cambodia,KHM,No Data,,,No Data,"While there are policies that relate Gender Equality and ICT and frameworks for integrating gender equality in different sectors of development, there are no specific policies for ICT deveopment in Lao PDR that addresses gender disparity in the ICT",World Bank,https://documents1.worldbank.org/curated/en/099092424010529589/pdf/P17813410d848d09d192fd1300487db1698.pdf
