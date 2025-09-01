@@ -11,14 +11,53 @@ The data presented here are based on available data but due to the lack of stand
 <br>
 Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
 </div>
+<div>
+
+**Population (2023)**: 281,190,067
+<br>
+**Female Population (2023)**: 39,934,300
+<br>
+**% Female Population (2023)**: 49.77%
+
+</div>
 <br>
 
 ## Key findings
+<div>
+Indonesia’s digital gender landscape is defined by a stark disconnect between available data and policy action. The quantitative indicators, though limited, consistently point to significant gender disparities: women trail men in internet access and phone ownership, are severely underrepresented in the ICT workforce and leadership roles, and face a substantial pay gap. Despite this clear evidence of inequality, there is a complete absence of reported qualitative initiatives: no specific policies, skill development programs, or gender-mainstreaming frameworks to address these gaps have been documented.
+<br><br>
+This lack of policies is a major concern for ASEAN’s agenda on gender and ICT mainstreaming. While the data is sparse, with many indicators relying on single data points, it is sufficient to confirm that a digital gender divide exists and, in some areas, is closing very slowly. The lack of any reported targeted interventions suggests that gender equity is not being prioritized within Indonesia's national digital transformation strategy. Without a formal policy framework, progress is likely to be incidental rather than intentional, hindering the country's ability to achieve an inclusive and equitable digital economy.
 
+</div>
 <br>
 
 ## Categorical indicators
+<div>
+There are no reported comprehensive policies or initiatives in Indonesia that address the intersection of gender and ICT. The country does not have broad gender equality frameworks that serve as a foundation for reducing the digital gender divide, nor are there reported efforts to integrate gender considerations into ICT-specific strategies. Similarly, there are no reported mechanisms for gender budgeting or mainstreaming, and no specialized government bodies dedicated to gender and ICT. Programs aimed at supporting women in ICT through education, skills development, workplace equality, entrepreneurship support, or technology access have also not been reported. In addition, no initiatives exist for the systematic collection and analysis of gender-disaggregated ICT data, which limits the ability to assess and address disparities.
+</div>
+<br>
 
+## Numerical indicators
+<div>
+The quantitative data for Indonesia is sparse and heavily skewed toward access and workforce metrics, with many indicators based on only a single year of data. This makes trend analysis impossible for critical areas like the gender pay gap, women in ICT leadership, and STEM graduation rates. Furthermore, there is a complete lack of data on educational enrolment and completion in ICT programs. This data gap limits a full understanding of the pipeline for women in ICT and the structural barriers they may face.
+</div>
+
+| **<span style="color: rgb(200, 5, 124);">INDICATOR</span>** | OBSERVATION |
+| --- | --- |
+| <span style="color: rgb(200, 5, 124);">**Gender Gap in Internet Access**</span> | Between 2015 and 2023, the gender gap in internet access showed a consistent narrowing trend. It started at 8.18 in 2015 and decreased to 4.2 in 2023, indicating steady progress in closing the access divide between men and women. |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in the ICT Workforce**</span> | A single data point from 2020 shows that women made up 28% of the ICT workforce. |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in ICT Management Positions**</span> | A single data point from 2017 reports that women held 23% of ICT management positions. |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in ICT Leadership Roles**</span> | A single data point from 2017 indicates that women occupied 23% of ICT leadership roles. |
+| <span style="color: rgb(200, 5, 124);">**Gender Pay Gap in ICT Sector**</span> | A single data point for 2023 shows a gender pay gap of 18% in the ICT sector. |
+| <span style="color: rgb(200, 5, 124);">**Percentage Women Graduates in STEM Fields**</span> | A single data point from 2020 indicates that women accounted for 32% of STEM graduates. |
+| <span style="color: rgb(200, 5, 124);">**Enrolment and Completion Rates in ICT-Related Courses**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Gender Representation in ICT Startups**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Phone Ownership**</span> | From 2015 to 2023, phone ownership increased for both genders, though a persistent gap remains. Female ownership grew from 50.4% to 62.6%, while male ownership rose from 63.4% to 71.9%. The gap between male and female ownership was approximately 13 percentage points in 2015 and remained around 9 percentage points in 2023. |
+| <span style="color: rgb(200, 5, 124);">**Proportion of Youth and Adults with ICT Skills**</span> | Data from 2017 shows a wide disparity in digital skills. While basic copy-paste and file transfer skills were reported by 59.6% and 50.7% of the population, respectively, more advanced skills were rare. Only 3.5% reported the ability to write a computer program. |
+| <span style="color: rgb(200, 5, 124);">**Proportion of Youth and Adults with Digital Literacy Skills**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Share of Female Graduates by Field**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Share of Female Graduates in ICT Programs**</span> | N/A
+</div>
 <br>
 
 ## Gender Gap in Internet Access

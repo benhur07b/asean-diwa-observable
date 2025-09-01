@@ -84,10 +84,18 @@ const select_country_num0001 = view(
 // const pickCountryIndicatorsGenderGapInternetAccess = Generators.input(pickCountryIndicatorsGenderGapInternetAccessInput);
 ``` -->
 <br>
+<div>
+This dataset outlines the difference in internet use between men and women across twelve Southeast Asian and Pacific countries, including Indonesia, Malaysia, Singapore, the Philippines, and Vietnam, from 2009 to 2024. The indicator measures the percentage point gap by which male internet use exceeds female use, offering a clear metric for digital inequality. While the dataset provides consistent yearly values, the sources are varied, including national bodies like the Department of Statistics of Malaysia and international sources such as the United Nations SDG Database, with some entries lacking source information.
+<br><br>
+At a regional level, men’s internet access outpaces women’s by an average of 4.34 percentage points, indicating a persistent, though not extreme, digital divide. However, this average masks a vast range of national experiences. The gap is most severe in Papua New Guinea, where it reached 23 percentage points in 2022, highlighting severe access disparities. In contrast, the gap is almost nonexistent in countries like Singapore (0.34% in 2021) and has even reversed in the Philippines, where women’s internet use surpassed men’s by 2.12 percentage points in 2022, showcasing a rare female advantage in digital access.
+<br><br>
+Taken together, the data reveals a story of gradual but uneven progress toward digital parity. Countries like Indonesia and Singapore show a clear downward trend in the gender gap over the last decade. However, the persistence of moderate gaps in countries like Malaysia and the extreme disparities in others show that regional progress is far from uniform. The dataset thus captures a dual narrative: one of successful gap-narrowing in several nations and another of deep, lingering digital divides elsewhere.
+<br>
 
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
 
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_women_in_ict_workforce">Percentage of Women in the ICT Workforce</h2>
 
@@ -144,10 +152,17 @@ Plot.plot({
 ```
 
 <br>
-
+<div>
+This dataset tracks the share of women employed in the ICT sector across eight Southeast Asian countries, including Brunei Darussalam, Malaysia, Singapore, Thailand, and Vietnam, between 2014 and 2024. Each entry records the percentage of the ICT workforce that is female, though definitions vary; for instance, Singapore’s data specifically covers "Tech and Media Manpower" under the broader InfoComm industry. The data is sourced from national bodies like Brunei's Department of Economic Planning and Statistics and the World Bank, but coverage is sparse and inconsistent across years and countries, making a comprehensive regional trend analysis difficult.
+<br><br>
+Regionally, the data suggests a high average female participation of 53%, but this figure is heavily skewed by specific sub-sector definitions. The range of values reveals a more complex reality: female representation is as low as 28% in Indonesia (2020) and 32% in the Philippines (2019), indicating significant underrepresentation. At the other extreme, Singapore reports a remarkably high share, peaking at 71.5% in 2017 within its tech and media sub-sector. This wide disparity underscores how national contexts and industry segments produce vastly different employment outcomes for women in ICT.
+<br><br>
+The dataset highlights a story of fragmentation rather than a clear regional pattern. While some countries like Brunei have seen moments of parity, with female representation reaching 51% in 2017, the overall picture is one of inconsistency. The high figures from Singapore’s specialized sector contrast sharply with the more modest representation in the broader ICT workforces of its neighbors. This lack of uniform progress and standardized measurement suggests that while women have achieved a strong presence in certain niches, their integration into the wider ICT industry remains uneven across Southeast Asia.
+<br><br>
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
 
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_women_in_ict_management">Percentage of Women in ICT Management Positions</h2>
 
@@ -203,10 +218,16 @@ Plot.plot({
 })
 ```
 <br>
-
+<div>
+This dataset aims to measure the proportion of women in ICT management roles but is severely limited in scope, providing data for only Malaysia, Singapore, and Indonesia between 2011 and 2023. Furthermore, the data’s direct applicability to the ICT sector is questionable due to its broad nature. The figures for Malaysia are explicitly noted as not being aggregated by sector, while Singapore’s data reflects the general proportion of resident females among all "Managers and Administrators." This makes a direct, cross-country comparison on ICT-specific management nearly impossible.
+<br><br>
+In Singapore, women’s representation in management and administration shows a positive trend, growing from 33.1% in 2013 to a peak of 40.6% in 2022, suggesting a steady journey toward gender parity in leadership roles. Conversely, the figures for Malaysia are exceptionally low, hovering around 3%. This low number is almost certainly a statistical artifact of measuring the percentage of female managers across the entire economy, not specifically within the ICT sector. In Indonesia, women’s representation in ICT management roles is 23% in 2017. But without any other data from other years, it is impossible to make a detailed assessment.
+<br><br>
+Ultimately, this dataset reveals more about the challenges of data availability than about female leadership in ICT. The absence of specific, comparable data from across the region makes it impossible to draw any meaningful conclusions about regional trends. The primary story is one of a critical data gap: while Singapore’s general numbers suggest progress, the lack of sector-specific reporting means that the true extent of women’s leadership in the region's rapidly growing ICT sector remains largely unmeasured.
+<br><br>
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
-
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_women_in_ict_leadership">Percentage of Women in ICT Leadership Roles</h2>
 
@@ -263,10 +284,14 @@ Plot.plot({
 })
 ```
 <br>
-
+<div>
+This dataset is intended to track the share of women in high-level ICT leadership roles but is exceptionally sparse, offering only a few data points for Malaysia (2019-2021) and a single entry for Indonesia (2017). The provided data does not appear to be specific to the ICT sector. The figures for Malaysia refer to the board of directors of all companies registered with the national commission, not just ICT firms. Indonesia's single data point lacks any remarks or methodological context, making its relevance to the ICT sector unclear.
+<br><br>
+Because of the severe data limitations and methodological inconsistencies, this dataset offers no reliable insight into female leadership within the Southeast Asian ICT sector. It is impossible to conduct a meaningful comparison or identify any regional trend. The primary takeaway is the existence of a major data vacuum; without standardized, sector-specific metrics, any attempt to understand the presence of women in the highest tiers of ICT leadership across the region is purely speculative.
+<br><br>
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
-
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_gender_paygap_in_ict">Gender Pay Gap in ICT Sector</h2>
 
@@ -318,12 +343,17 @@ Plot.plot({
 })
 ```
 
-
 <br>
-
+<div>
+This dataset examines the wage disparity between men and women in the ICT sector, but its scope is limited. Malaysia and Singapore only have a few data points between 2018 and 2023. Vietnam and Indonesia only have single data points each from 2023.Malaysia and Singapore employ fundamentally different methodologies, making a direct comparison problematic. Malaysia’s data is specific to the roles of “technicians and associate professionals.” In contrast, Singapore’s figures represent an “adjusted” pay gap.
+<br><br>
+The reported figures from the two nations tell vastly different stories, likely due to these methodological choices. Singapore reveals a significant adjusted gender pay gap, recorded at 16.3% in 2018 and improving slightly to 14.3% by 2023. This indicates that women in the sector earn substantially less than their male counterparts. On the other hand, Malaysia reports a very narrow pay gap for its technical professionals, ranging from just 1.87% to 2.85%. This suggests near-parity, but only within that specific, non-managerial segment of the ICT workforce.
+<br><br>
+The dataset is too fragmented to paint a regional picture of the gender pay gap in ICT. Instead, it highlights the critical impact of data collection methods. The Singaporean data suggests that significant, systemic pay inequality exists, while the Malaysian data points to near-equality within a specific professional tier. Without standardized, comprehensive, and sector-wide data from across the region, it remains impossible to determine whether the broader reality is one of disparity or of equitable pay.
+<br><br>
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
-
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_women_graduates_in_stem">Percentage Women Graduates in STEM Fields</h2>
 
@@ -379,10 +409,16 @@ Plot.plot({
 })
 ```
 <br>
-
+<div>
+This dataset provides a comprehensive overview of the share of female graduates in Science, Technology, Engineering, and Mathematics (STEM) across ten Southeast Asian countries, including Brunei Darussalam, Malaysia, Thailand, and Vietnam. Most of the data is sourced from the UNESCO Institute for Statistics, lending it a high degree of reliability and allowing for robust comparisons.
+<br><br>
+At the regional level, women constitute an average of 34.9% of STEM graduates, a figure that suggests a move toward, but not full attainment of, gender parity. This regional average, however, conceals a remarkably wide spectrum of outcomes. The proportion of female graduates plunged to as low as 10% in Cambodia (2008) while soaring to an impressive 62% in Brunei Darussalam (2006). This highlights a deep regional divide, with some nations lagging significantly while others outperform global benchmarks for female participation in STEM.
+<br><br>
+The data reveals a pattern of surprising strength in several countries, challenging the common narrative of female underrepresentation in STEM. Nations like Brunei Darussalam and Malaysia consistently show high rates of female graduates, frequently achieving parity or a female majority in their STEM programs. Conversely, countries like Laos and Cambodia exhibit a persistent gap, with women making up less than a third of STEM graduates. The dataset thus tells a dual story: one of success in fostering female talent in STEM in parts of the region, and another of gender gaps that mirror more traditional global patterns elsewhere.
+<br><br>
 Interested to see the trends per country? Check out our <a href="../country-reports/" target="_blank"><strong>Country reports</strong></a>.
-
-<br>
+</div>
+<br><br>
 
 <h2 id="indicators_enrolment_rates_in_ict">Enrolment Rates in ICT-Related Courses</h2>
 

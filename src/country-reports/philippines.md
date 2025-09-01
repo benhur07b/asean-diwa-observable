@@ -11,42 +11,57 @@ The data presented here are based on available data but due to the lack of stand
 <br>
 Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
 </div>
+
+<div>
+
+**Population (2023)**: 114,891,199
+<br>
+**Female Population (2023)**: 57,580,382
+<br>
+**% Female Population (2023)**: 50.12% 
+
+</div>
 <br>
 
 ## Key findings
 
+<div>
 Women in the Philippines benefit from widespread digital access and high mobile phone penetration, yet their presence in technical education and ICT professions remains below parity. Digital skills are broadly distributed at the basic level, but advanced capacities such as coding remain uncommon. Education data show strong female participation in fields such as education and health, while underrepresentation persists in engineering, ICT, and some sciences.
 
-For ASEAN’s gender and ICT mainstreaming agenda, these figures highlight both opportunities and challenges. Disaggregated measures allow for targeted interventions to reduce barriers for women in digital access and skills training. At the same time, they show where systemic improvements are needed, such as building pathways from STEM education into ICT employment. In this sense, the Philippines offers a case for strengthening capacity-building programs and inclusive workforce development, reinforcing ASEAN’s broader vision of equitable digital transformation.
+<br>
 
+For ASEAN’s gender and ICT mainstreaming agenda, these figures highlight both opportunities and challenges. Disaggregated measures allow for targeted interventions to reduce barriers for women in digital access and skills training. At the same time, they show where systemic improvements are needed, such as building pathways from STEM education into ICT employment. In this sense, the Philippines offers a case for strengthening capacity-building programs and inclusive workforce development, reinforcing ASEAN’s broader vision of equitable digital transformation.
+</div>
 <br>
 
 ## Categorical indicators
 
+<div>
 There are no reported comprehensive policies or initiatives in the Philippines that address the intersection of gender and ICT. The country does not have broad gender equality frameworks that serve as a foundation for reducing the digital gender divide, nor are there reported efforts to integrate gender considerations into ICT-specific strategies. Similarly, there are no reported mechanisms for gender budgeting or mainstreaming, and no specialized government bodies dedicated to gender and ICT. Programs aimed at supporting women in ICT through education, skills development, workplace equality, entrepreneurship support, or technology access have also not been reported. In addition, no initiatives exist for the systematic collection and analysis of gender-disaggregated ICT data, which limits the ability to assess and address disparities.
-
+</div>
 <br>
 
 ## Numerical indicators
 
+<div>
 The Philippines records gender gaps in internet access, phone ownership by gender, women’s participation in the ICT workforce, and women graduates in STEM fields. It also documents the distribution of female graduates across academic disciplines and a detailed set of ICT skills, such as sending emails with attachments, transferring files between devices, installing software, preparing presentations, and applying spreadsheet functions.
 
-| **Indicator** | Observation |
+| **<span style="color: rgb(200, 5, 124);">INDICATOR</span>** | OBSERVATION |
 | --- | --- |
-| **Gender Gap in Internet Access** | Data is only available for 2022, when the gender gap in internet access was recorded at -2.12. With no earlier or later figures, it is not possible to establish a trend over time. |
-| **Percentage of Women in the ICT Workforce** | In 2019, women represented 32.0% of the ICT workforce. Since this is the only available data point, no conclusions can be drawn about whether participation has been rising or falling across years. |
-| **Percentage of Women in ICT Management Positions** | N/A |
-| **Percentage of Women in ICT Leadership Roles** | N/A |
-| **Gender Pay Gap in ICT Sector** | N/A |
-| **Percentage Women Graduates in STEM Field** | The Philippines reported that in 2017, 36.3% of graduates in STEM fields were women. Without additional years of data, it is not possible to identify a trend. |
-| **Enrolment and Completion Rates in ICT-Related Courses** | N/A |
-| **Gender Representation in ICT Startups** | N/A |
-| **Phone Ownership** | By 2020, mobile phone ownership in the Philippines was widespread, with 81.0% of women and 77.0% of men reporting ownership. As this dataset is limited to one year, no trend over time can be identified. |
-| **Proportion of Youth and Adults with ICT Skills** | Data from 2019 shows that ICT skills among youth and adults in the Philippines varied significantly across tasks. About 7.2% reported being able to use basic spreadsheet formulas, while 24.5% could perform copy-paste tasks and 25.8% could send emails with attachments. Higher percentages were seen in file transfer skills (22.2%) and installing or configuring software (10.5%). Meanwhile, only 9.1% could create electronic presentations. Since this is based on one year, no trajectory can be determined. |
-| **Proportion of Youth and Adults with Digital Literacy Skills** | N/A |
-| **Share of Female Graduates by Field** | Data shows women were more represented in arts and social sciences than in engineering and ICT. _Between 2003 and 2017, women remained strongly represented in traditionally female-dominated fields, while their share declined in others. In education, the female share was 77.2% in 2003 and slightly declined to 76.7% in 2017, staying consistently high. Similarly, health and welfare fields showed strong female participation, falling from 75.5% in 2003 to 71.9% in 2017. Agriculture graduates were more balanced, moving from 54.3% in 2003 to 53.4% in 2017, while social sciences also declined slightly from 71.0% to 70.0% over the same period. By contrast, women were underrepresented in engineering, where their share dropped from 32.0% in 2003 to 24.5% in 2017. Arts and humanities also declined, from 59.1% in 2003 to 57.0% in 2017. However, female graduates in services rose sharply, from just 14.6% in 2003 to 48.8% in 2017. Data also shows that unspecified fields saw growth, rising from 15.3% in 2003 to 30.3% in 2014. For natural sciences and mathematics, the only available data point is from 2017, when women made up 62% of graduates._ |
-| **Share of Female Graduates in ICT Programs** | In 2017, women accounted for 48.1% of graduates in ICT programs. Without additional years of data, no change over time can be assessed. |
-
+| **<span style="color: rgb(200, 5, 124);">Gender Gap in Internet Access</span>** | Data is only available for 2022, when the gender gap in internet access was recorded at -2.12. With no earlier or later figures, it is not possible to establish a trend over time. |
+| **<span style="color: rgb(200, 5, 124);">Percentage of Women in the ICT Workforce</span>** | In 2019, women represented 32.0% of the ICT workforce. Since this is the only available data point, no conclusions can be drawn about whether participation has been rising or falling across years. |
+| **<span style="color: rgb(200, 5, 124);">Percentage of Women in ICT Management Positions</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Percentage of Women in ICT Leadership Roles</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Gender Pay Gap in ICT Sector</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Percentage Women Graduates in STEM Field</span>** | The Philippines reported that in 2017, 36.3% of graduates in STEM fields were women. Without additional years of data, it is not possible to identify a trend. |
+| **<span style="color: rgb(200, 5, 124);">Enrolment and Completion Rates in ICT-Related Courses</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Gender Representation in ICT Startups</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Phone Ownership</span>** | By 2020, mobile phone ownership in the Philippines was widespread, with 81.0% of women and 77.0% of men reporting ownership. As this dataset is limited to one year, no trend over time can be identified. |
+| **<span style="color: rgb(200, 5, 124);">Proportion of Youth and Adults with ICT Skills</span>** | Data from 2019 shows that ICT skills among youth and adults in the Philippines varied significantly across tasks. About 7.2% reported being able to use basic spreadsheet formulas, while 24.5% could perform copy-paste tasks and 25.8% could send emails with attachments. Higher percentages were seen in file transfer skills (22.2%) and installing or configuring software (10.5%). Meanwhile, only 9.1% could create electronic presentations. Since this is based on one year, no trajectory can be determined. |
+| **<span style="color: rgb(200, 5, 124);">Proportion of Youth and Adults with Digital Literacy Skills</span>** | N/A |
+| **<span style="color: rgb(200, 5, 124);">Share of Female Graduates by Field</span>** | Data shows women were more represented in arts and social sciences than in engineering and ICT. _Between 2003 and 2017, women remained strongly represented in traditionally female-dominated fields, while their share declined in others. In education, the female share was 77.2% in 2003 and slightly declined to 76.7% in 2017, staying consistently high. Similarly, health and welfare fields showed strong female participation, falling from 75.5% in 2003 to 71.9% in 2017. Agriculture graduates were more balanced, moving from 54.3% in 2003 to 53.4% in 2017, while social sciences also declined slightly from 71.0% to 70.0% over the same period. By contrast, women were underrepresented in engineering, where their share dropped from 32.0% in 2003 to 24.5% in 2017. Arts and humanities also declined, from 59.1% in 2003 to 57.0% in 2017. However, female graduates in services rose sharply, from just 14.6% in 2003 to 48.8% in 2017. Data also shows that unspecified fields saw growth, rising from 15.3% in 2003 to 30.3% in 2014. For natural sciences and mathematics, the only available data point is from 2017, when women made up 62% of graduates._ |
+| **<span style="color: rgb(200, 5, 124);">Share of Female Graduates in ICT Programs</span>** | In 2017, women accounted for 48.1% of graduates in ICT programs. Without additional years of data, no change over time can be assessed. |
+</div>
 <br>
 
 ## Gender Gap in Internet Access

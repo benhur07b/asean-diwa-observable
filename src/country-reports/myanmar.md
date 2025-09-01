@@ -11,14 +11,52 @@ The data presented here are based on available data but due to the lack of stand
 <br>
 Users are advised to use caution when interpreting the data and to consider these limitations when making conclusions or decisions.
 </div>
+<div>
+
+**Population (2023)**: 54,133,798
+<br>
+**Female Population (2023)**: 27,177,563
+<br>
+**% Female Population (2023)**: 50.20%
+
+</div>
 <br>
 
 ## Key findings
+<div>
+Myanmar's digital gender landscape is largely opaque due to a near-complete absence of both qualitative policy information and robust quantitative data. The available data, though extremely limited, indicates that while women have achieved high representation in STEM and ICT graduation rates, this educational success does not appear to translate into the workforce, where their participation in technical roles like telecommunications is significantly lower. This suggests a critical disconnect between education and employment pathways. The complete lack of reported policies, programs, or initiatives focused on gender and ICT means there is no visible strategy to address this or other disparities, such as the significant gaps in internet access and phone ownership.
+<br><br>
+For ASEAN’s gender and ICT mainstreaming agenda, Myanmar represents a case of a critical data and policy vacuum. The scarcity of reliable, consistently collected data makes it impossible to formulate, monitor, or evaluate any evidence-based policies. Key indicators on workforce participation, leadership, and pay gap are either missing or fragmented. Without foundational data collection and a strategic policy framework, Myanmar is not positioned to address the digital gender divide, hindering its ability to participate fully in an inclusive regional digital economy.
 
+</div>
 <br>
 
 ## Categorical indicators
+<div>
+There are no reported comprehensive policies or initiatives in Myanmar that address the intersection of gender and ICT. The country does not have broad gender equality frameworks that serve as a foundation for reducing the digital gender divide, nor are there reported efforts to integrate gender considerations into ICT-specific strategies. Similarly, there are no reported mechanisms for gender budgeting or mainstreaming, and no specialized government bodies dedicated to gender and ICT. Programs aimed at supporting women in ICT through education, skills development, workplace equality, entrepreneurship support, or technology access have also not been reported. In addition, no initiatives exist for the systematic collection and analysis of gender-disaggregated ICT data, which limits the ability to assess and address disparities.
+</div>
+<br>
 
+## Numerical indicators
+<div>
+The quantitative data for Myanmar is exceptionally limited and fragmented, with most indicators relying on single data points from different years. Critical information on ICT skills, the gender pay gap, and women in leadership roles is unavailable. The existing data on education and basic access provides a very narrow snapshot but is insufficient for any meaningful trend analysis; highlighting a severe data deficit that hinders a comprehensive understanding of the country’s digital gender landscape.
+
+| **<span style="color: rgb(200, 5, 124);">INDICATOR</span>** | OBSERVATION |
+| --- | --- |
+| <span style="color: rgb(200, 5, 124);">**Gender Gap in Internet Access**</span> | A single data point from 2017 shows a significant gender gap in internet access of 10. |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in the ICT Workforce**</span> | Data from 2019 is disaggregated by sub-sector, showing women made up 46% of the workforce in Computer Programming and Consultancy but only 29% in Telecommunications. A single data point from 2017 reported that women constituted 71% of the workforce in Engineering and Tech. |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in ICT Management Positions**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Percentage of Women in ICT Leadership Roles**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Gender Pay Gap in ICT Sector**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Percentage Women Graduates in STEM Fields**</span> | A single data point from 2018 shows that women constituted a majority of STEM graduates at 60.8%. |
+| <span style="color: rgb(200, 5, 124);">**Enrolment and Completion Rates in ICT-Related Courses**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Gender Representation in ICT Startups**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Phone Ownership**</span> | The available data shows a widening gender gap in phone ownership. In 2016, the gap was minimal, with 77% of women and 78% of men owning a phone. By 2020, the gap had grown to 11 percentage points, with ownership at 57% for women and 68% for men. |
+| <span style="color: rgb(200, 5, 124);">**Proportion of Youth and Adults with ICT Skills**</span> | N/A |
+| <span style="color: rgb(200, 5, 124);">**Share of Female Graduates by Field**</span> | Data from 2011 and 2018 shows that women consistently formed a majority of graduates in most fields. However, there were significant declines between the two years in key areas. The female share in Engineering, Manufacturing and Construction dropped sharply from 61.2% to 42.3%, and in Health and Welfare from 80.6% to 57.2%. In contrast, their share in Services rose from 36.3% to 51.8%. |
+| <span style="color: rgb(200, 5, 124);">**Share of Female Graduates in ICT Programs**</span> | A single data point from 2018 indicates that women made up a strong majority of ICT graduates at 67%. |
+
+</div>
 <br>
 
 ## Gender Gap in Internet Access

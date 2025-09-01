@@ -622,6 +622,6 @@ const search_technology_access = view(Inputs.search(indicators_categorical_techn
 ```js
 Inputs.table(search_technology_access, {
     layout: "auto",
-    height: 240
+    height: 320
 })
 ```

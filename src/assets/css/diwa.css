@@ -38,6 +38,18 @@
 
   body {
     font-family: 'Atkinson Hyperlegible Next' !important;
+    /* max-width: 100%; */
+  }
+
+  p {
+    font-family: 'Atkinson Hyperlegible Next' !important;
+    max-width: 100%;
+  }
+
+  table {
+    font-family: 'Atkinson Hyperlegible Next' !important;
+    font-size: 1rem;
+    max-width: 100%;
   }
 
   #observablehq-sidebar {
