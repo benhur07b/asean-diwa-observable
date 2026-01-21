@@ -37,11 +37,11 @@ The implications of this comprehensive coverage are significant for mainstreamin
 | --- | --- |
 | **<span style="color: rgb(200, 5, 124);">Gender Equality Policies</span>** | Singapore does not legislate equality through a broad act. Instead, it relies on the Tripartite Guidelines on Fair Employment Practices (2007), a framework that discourages discriminatory hiring and advancement. While narrower than a statute, these guidelines have become the country’s functional substitute for a comprehensive equality law. |
 | **<span style="color: rgb(200, 5, 124);">Workplace Equality Policies</span>** | The Tripartite Guidelines also serve at the organizational level, promoting fair, merit-based workplaces across industries, including ICT. |
-| **<span style="color: rgb(200, 5, 124);">Gender and ICT Policies</span>** | The Singapore Women in Tech (SGWiT) initiative (2021) is the flagship program, promoting mentorship, coding workshops, and corporate pledges to strengthen women’s presence in ICT. |
-| **<span style="color: rgb(200, 5, 124);">Education and Development Initiatives</span>** | SGWiT doubles as the country’s main vehicle for education-focused programs, designed to encourage women to pursue ICT careers. |
+| **<span style="color: rgb(200, 5, 124);">Gender and ICT Policies</span>** | The Singapore Women in Tech (SGWIT) initiative, led by the Infocomm Media Development Authority (IMDA) in partnership with the tech industry and community, seeks to attract, inspire, and develop girls and women to pursue a career in the dynamic infocomm tech sector. |
+| **<span style="color: rgb(200, 5, 124);">Education and Development Initiatives</span>** | N/A |
 | **<span style="color: rgb(200, 5, 124);">Entrepreneurship Programs</span>** | Startup SG (2017) is not tailored specifically to women, but the spreadsheet records its measurable impact: women-owned businesses grew significantly during its operation, making it an indirect yet effective support for women entrepreneurs. |
 | **<span style="color: rgb(200, 5, 124);">Gender Budgeting</span>** | Singapore does not practice gender budgeting, preferring instead to embed inclusivity within its broader innovation and growth policies. |
-| **<span style="color: rgb(200, 5, 124);">Specialized Government Bodies</span>** | No dedicated genderICT body exists; partnerships like SGWiT stand in place of statutory institutions. |
+| **<span style="color: rgb(200, 5, 124);">Specialized Government Bodies</span>** | N/A |
 | **<span style="color: rgb(200, 5, 124);">Data Collection and Analysis</span>** | The country’s commitment to measurement is clear: the spreadsheet lists over 20 categories of ICT skills disaggregated by gender, providing a granular portrait of digital inclusion. |
 </div>
 <br>
@@ -79,7 +79,7 @@ A positive value indicates women generally have more access while a negative val
 </div>
 
 ```js
-const indicators_gender_gap_internet_access = FileAttachment("../data/indicators_numerical_gender_gap_internet_access.csv").csv({typed: true});
+const indicators_gender_gap_internet_access = FileAttachment("../data/indicators_numerical_gender_gap_internet_access_sg_edit.csv").csv({typed: true});
 ```
 
 ```js
@@ -212,6 +212,7 @@ Plot.plot({
 The difference in average earnings between men and women in the ICT sector, typically expressed as a percentage of men’s earnings (e.g., women earn 18-30% less than men).
 </div>
 
+<!-- 
 ```js
 const indicators_gender_paygap_in_ict = FileAttachment("../data/indicators_numerical_gender_paygap_in_ict.csv").csv({typed: true});
 ```
@@ -237,6 +238,16 @@ Plot.plot({
         Plot.axisY({label: "Gender Pay Gap in ICT Sector (%)"}),
     ]
 })
+``` 
+ -->
+
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
+    ]
+})
 ```
 
 <br>
@@ -247,6 +258,7 @@ Plot.plot({
 The proportion of women among all graduates in science, technology, engineering, and mathematics (STEM) fields, expressed as a percentage.
 </div>
 
+<!-- 
 ```js
 const indicators_women_graduates_in_stem = FileAttachment("../data/indicators_numerical_women_graduates_in_stem.csv").csv({typed: true});
 ```
@@ -270,6 +282,16 @@ Plot.plot({
             {x: "year", y: "indicator_value", r: 16, fill: "#C8057C",  tip: true}),
         Plot.axisX({label: "Year"}),
         Plot.axisY({label: "Women Graduates in STEM Fields (%)"}),
+    ]
+})
+```
+-->
+
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
     ]
 })
 ```
@@ -448,6 +470,7 @@ Plot.plot({
 World Bank indicator measures the percentage of female graduates across different fields of study in tertiary education.
  </div>
 
+<!-- 
 ```js
 const graduates_by_field = FileAttachment("../data/indicators_numerical_graduates_by_field.csv").csv({typed: true});
 ```
@@ -485,6 +508,15 @@ Plot.plot({
         ),
         // Plot.axisX({label: "Year"}),
         Plot.axisY({label: "Share of Female Graduates by Field (%)"}),
+    ]
+})
+``` -->
+
+```js
+Plot.plot({
+    marks: [
+        Plot.frame(),
+        Plot.text(["No data"])
     ]
 })
 ```
