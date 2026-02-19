@@ -21,7 +21,7 @@ pager: false
 ## <span style="color: #0a0a0a; font-weight: 300">Browse the data on the</span> <a href="https://data.aseandiwa.org/" target="_blank"><strong>ASEAN-DIWA Datasette</strong></a>.
 <br>
 
-## <span style="color: #0a0a0a; font-weight: 300">Read our</span> <a href="assets/files/SmartCT-ASEAN-DIWA-Policy-Paper.pdf" download target="_blank"><strong>policy paper</strong></a>.
+## <span style="color: #0a0a0a; font-weight: 300">Read our</span> <a href="assets/files/[DIWA-ASEAN]-Policy-Recommendation-Feb-2026.pdf" download target="_blank"><strong>policy recommendations</strong></a> <span style="color: #0a0a0a; font-weight: 300">and</span> <a href="assets/files/[DIWA-ASEAN]-Comprehensive-Report-Feb-2026.pdf" download target="_blank"><strong>comprehensive report</strong></a>.
 <br>
 
 

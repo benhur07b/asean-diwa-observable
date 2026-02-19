@@ -56,7 +56,7 @@ export default {
       name: "More information",
       pages: [
         { name: "About ASEAN-DIWA", path: "about/asean-diwa"},
-        { name: "Read policy paper", path: "about/policy-paper"},
+        { name: "Current Situation and Policy Recommendations", path: "about/policy-paper"},
       ]
     },
   ],
